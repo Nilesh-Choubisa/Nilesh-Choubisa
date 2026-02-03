@@ -23,21 +23,17 @@
 
 ---
 
-<!-- ## 🛠️ Languages & Tools -->
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,express,nodejs,mongodb,postgres,git,github,docker,aws&perline=6" />
-</p> -->
-
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-Choubisa&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,express,nodejs,mongodb,postgres,git,github,docker,aws&perline=6" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-Choubisa&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>### 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nilesh-Choubisa&theme=tokyonight" />
-</p>
+</p> -->
 
 
 ---
