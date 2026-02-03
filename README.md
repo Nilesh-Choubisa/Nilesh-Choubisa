@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Nilesh 👋
 
-<!--
-**Nilesh-Choubisa/Nilesh-Choubisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer | Code Enthusiast  
+🌐 Website: https://nilesh.choubisa.in  
 
-Here are some ideas to get you started:
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-choubisa-408b471a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- JavaScript
+- React
+- Node.js
+- Git & GitHub
+
+---
+⭐ Thanks for visiting my profile!
