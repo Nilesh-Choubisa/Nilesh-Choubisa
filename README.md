@@ -23,10 +23,10 @@
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
+<!-- ## 🛠️ Languages & Tools -->
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,express,nodejs,mongodb,postgres,git,github,docker,aws&perline=6" />
-</p>
+</p> -->
 
 
 ---
